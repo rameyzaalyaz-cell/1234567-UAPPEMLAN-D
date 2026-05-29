@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     static Scanner scanner = new Scanner(System.in);
-    static GoDriveRentalSystem sistem = new GoDriveRentalSystem();
+    static GoDriveRental sistem = new GoDriveRental();
 
     public static void main(String[] args) {
         int pilihan;
